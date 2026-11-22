@@ -1,6 +1,6 @@
 # Muhammad Noor Hasan Siregar
 
-Pengembang aplikasi AI berbahasa Indonesia untuk usaha kecil. Padangsidimpuan, Indonesia.
+Pengembang aplikasi AI berbahasa Indonesia untuk usaha kecil. Indonesia.
 
 Saya membangun perangkat lunak yang dipakai orang non-teknis untuk pekerjaan nyata: alur yang mudah diikuti, data yang tetap di komputer sendiri, dan hasil yang bisa ditinjau sebelum dipakai.
 
